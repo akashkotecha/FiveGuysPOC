@@ -16,7 +16,7 @@
 			duration: 1000,
 
 			// Styling Options
-			fillBackgroundColor: 'rgb(210, 75, 87)',
+			fillBackgroundColor: '#db051b',
 			backgroundColor: '#EEEEEE',
 			radius: '0px',
 			height: '10px',
